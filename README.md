@@ -21,7 +21,6 @@ El agente lee un archivo CSV que contiene historias de usuario con sus criterios
 
 2. Configura la variable de entorno:
    ```bash
-   set GOOGLE_API_KEY=AIzaSyChrcCrBtonN5OlbV4EJt4mE6BkClNPyDI
    ```
 
 ## Uso
