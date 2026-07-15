@@ -1,0 +1,27 @@
+# Entornos y secretos
+.env
+*.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Node / Cypress
+node_modules/
+package-lock.json
+
+# Archivos temporales y de sistema
+.DS_Store
+*.log
+*.tmp
+*.bak
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos grandes / generados
+*.zip
+*.pdf
+*.docx

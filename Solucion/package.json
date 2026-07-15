@@ -1,0 +1,15 @@
+{
+  "name": "solucion",
+  "version": "1.0.0",
+  "description": "Este proyecto implementa una aplicación web con Streamlit que utiliza Gemini para transformar Historias de Usuario en un plan de pruebas automatizado.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.18.1"
+  }
+}
